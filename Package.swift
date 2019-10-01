@@ -8,7 +8,7 @@ let package = Package(
     .library(name: "RxExpect", targets: ["RxExpect"]),
   ],
   dependencies: [
-    .package(url: "https://github.com/lcg5450/RxSwift.git", .exact("4.3.2")),
+    .package(url: "https://github.com/lcg5450/RxSwift.git", .exact("4.3.3")),
   ],
   targets: [
     .target(name: "RxExpect", dependencies: ["RxSwift", "RxTest"]),
