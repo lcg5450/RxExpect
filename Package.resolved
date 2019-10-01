@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "RxSwift",
-        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
+        "repositoryURL": "https://github.com/lcg5450/RxSwift.git",
         "state": {
-          "branch": null,
-          "revision": "0df62b4d562f8620d4b795b18e4adf0b631527a1",
-          "version": "4.3.1"
+          "branch": "4.3.2",
+          "revision": "55cea924c0b07d12899d9c3d69269598aa9e5ae9",
+          "version": null
         }
       }
     ]
