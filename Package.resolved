@@ -5,9 +5,9 @@
         "package": "RxSwift",
         "repositoryURL": "https://github.com/lcg5450/RxSwift.git",
         "state": {
-          "branch": "4.3.2",
+          "branch": null,
           "revision": "55cea924c0b07d12899d9c3d69269598aa9e5ae9",
-          "version": null
+          "version": "4.3.2"
         }
       }
     ]
