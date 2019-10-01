@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "RxExpect"
-  s.version          = "1.2.2"
+  s.version          = "1.2.3"
   s.summary          = "The RxSwift testing framework"
   s.homepage         = "https://github.com/devxoul/RxExpect"
   s.license          = { :type => "MIT", :file => "LICENSE" }
